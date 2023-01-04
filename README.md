@@ -9,15 +9,15 @@
 ## 内容目录
 
 - [HTML5+CSS3登陆按钮跑马灯效果](https://sunyctf.github.io/login-demos/HTML5+CSS3登陆按钮跑马灯效果/index.html)
-- [HTML5+CSS3+JS登陆注册页面](https://sunyctf.github.io/front-end-demos/login/HTML5+CSS3+JS登陆注册页面/index.html)
-- [HTML5+CSS3+JS登陆注册页面0](https://sunyctf.github.io/front-end-demos/login/HTML5+CSS3+JS登陆注册页面0/signin.html)
-- [HTML5+CSS3唯美登录页面](https://sunyctf.github.io/front-end-demos/login/HTML5+CSS3唯美登录页面.html)
-- [HTML5+CSS3透明动态漂浮登录页面](https://sunyctf.github.io/front-end-demos/login/HTML5+CSS3透明动态漂浮登录页面/index.html)
-- [HTML5+CSS3+JQuery可爱的熊猫遮眼登录界面0](https://sunyctf.github.io/front-end-demos/login/HTML5+CSS3+JQuery可爱的熊猫遮眼登录界面0/index.html)
-- [HTML5+CSS3+JQuery可爱的熊猫遮眼登录界面1](https://sunyctf.github.io/front-end-demos/login/HTML5+CSS3+JQuery可爱的熊猫遮眼登录界面1/index.html)
-- [HTML5+CSS3+JS左右切换登录注册页面](https://sunyctf.github.io/front-end-demos/login/HTML5+CSS3+JS左右切换登录注册页面/index.html)
-- [HTML+CSS+JS轻松构建顺滑简约的登录注册](https://sunyctf.github.io/front-end-demos/login/HTML+CSS+JS轻松构建顺滑简约的登录注册/index.html)
-- [HTML5+CSS3实现简易超帅的登录界面](https://sunyctf.github.io/front-end-demos/login/HTML5+CSS3实现简易超帅的登录界面/index.html)
+- [HTML5+CSS3+JS登陆注册页面](https://sunyctf.github.io/login-demos/HTML5+CSS3+JS登陆注册页面/index.html)
+- [HTML5+CSS3+JS登陆注册页面0](https://sunyctf.github.io/login-demos/HTML5+CSS3+JS登陆注册页面0/signin.html)
+- [HTML5+CSS3唯美登录页面](https://sunyctf.github.io/login-demos/HTML5+CSS3唯美登录页面.html)
+- [HTML5+CSS3透明动态漂浮登录页面](https://sunyctf.github.io/login-demos/HTML5+CSS3透明动态漂浮登录页面/index.html)
+- [HTML5+CSS3+JQuery可爱的熊猫遮眼登录界面0](https://sunyctf.github.io/login-demos/HTML5+CSS3+JQuery可爱的熊猫遮眼登录界面0/index.html)
+- [HTML5+CSS3+JQuery可爱的熊猫遮眼登录界面1](https://sunyctf.github.io/login-demos/HTML5+CSS3+JQuery可爱的熊猫遮眼登录界面1/index.html)
+- [HTML5+CSS3+JS左右切换登录注册页面](https://sunyctf.github.io/login-demos/HTML5+CSS3+JS左右切换登录注册页面/index.html)
+- [HTML+CSS+JS轻松构建顺滑简约的登录注册](https://sunyctf.github.io/login-demos/HTML+CSS+JS轻松构建顺滑简约的登录注册/index.html)
+- [HTML5+CSS3实现简易超帅的登录界面](https://sunyctf.github.io/login-demos/HTML5+CSS3实现简易超帅的登录界面/index.html)
 
 ## 使用说明
 
