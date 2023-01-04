@@ -4,21 +4,21 @@
 
 ## 仓库介绍
 
-❣️ 好看的登陆、注册页面
+❣️ 好看、帅气的登陆、注册界面
 
 ## 内容目录
 
 - [h5+css3登陆按钮跑马灯效果](https://sunyctf.github.io/login-demos/h5+css3登陆按钮跑马灯效果/index.html)
-- [h5+css3+js登陆注册页面](https://sunyctf.github.io/login-demos/h5+css3+js登陆注册页面/index.html)
-- [h5+css3+js登陆注册页面0](https://sunyctf.github.io/login-demos/h5+css3+js登陆注册页面0/signin.html)
-- [h5+css3唯美登录页面](https://sunyctf.github.io/login-demos/h5+css3唯美登录页面.html)
-- [h5+css3透明动态漂浮登录页面](https://sunyctf.github.io/login-demos/h5+css3透明动态漂浮登录页面/index.html)
-- [h5+css3+jquery可爱的熊猫遮眼登录界面0](https://sunyctf.github.io/login-demos/h5+css3+jquery可爱的熊猫遮眼登录界面0/index.html)
-- [h5+css3+jquery可爱的熊猫遮眼登录界面1](https://sunyctf.github.io/login-demos/h5+css3+jquery可爱的熊猫遮眼登录界面1/index.html)
-- [h5+css3+js左右切换登录注册页面](https://sunyctf.github.io/login-demos/h5+css3+js左右切换登录注册页面/index.html)
-- [h5+css3+js轻松构建顺滑简约的登录注册](https://sunyctf.github.io/login-demos/h5+css3+js轻松构建顺滑简约的登录注册/index.html)
-- [h5+css3实现简易超帅的登录界面](https://sunyctf.github.io/login-demos/h5+css3实现简易超帅的登录界面/index.html)
-- [h5+css3现代风网站登录界面](https://sunyctf.github.io/login-demos/h5+css3现代风网站登录界面/index.html)
+- [h5+css3+js登陆注册页](https://sunyctf.github.io/login-demos/h5+css3+js登陆注册页/index.html)
+- [h5+css3+js登陆注册页-0](https://sunyctf.github.io/login-demos/h5+css3+js登陆注册页-0/signin.html)
+- [h5+css3唯美登录页](https://sunyctf.github.io/login-demos/h5+css3唯美登录页.html)
+- [h5+css3透明动态漂浮登录页](https://sunyctf.github.io/login-demos/h5+css3透明动态漂浮登录页/index.html)
+- [h5+css3+jquery可爱熊猫遮眼登录页-0](https://sunyctf.github.io/login-demos/h5+css3+jquery可爱熊猫遮眼登录页-0/index.html)
+- [h5+css3+jquery可爱熊猫遮眼登录页-1](https://sunyctf.github.io/login-demos/h5+css3+jquery可爱熊猫遮眼登录页-1/index.html)
+- [h5+css3+js左右切换登录注册页](https://sunyctf.github.io/login-demos/h5+css3+js左右切换登录注册页/index.html)
+- [h5+css3+js顺滑简约登录注册页](https://sunyctf.github.io/login-demos/h5+css3+js顺滑简约登录注册页/index.html)
+- [h5+css3简易超帅登录页](https://sunyctf.github.io/login-demos/h5+css3简易超帅登录页/index.html)
+- [h5+css3现代风网站登录页](https://sunyctf.github.io/login-demos/h5+css3现代风网站登录页/index.html)
 
 ## 使用说明
 
