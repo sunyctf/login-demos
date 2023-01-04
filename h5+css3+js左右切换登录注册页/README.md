@@ -1,9 +1,11 @@
-# login
+# HTML5+CSS3+JS左右切换登录注册页
 
 #### 介绍
-HTML+CSS 完成登陆注册UI   
+HTML5+CSS3+JS左右切换登录注册页面
 
-- [Demo预览](https://sunyctf.github.io/front-end-demos/login/ui_0/index.html)
+#### 在线预览
+
+[Github仓库](https://github.com/sunyctf/login-demos) | [Demo预览](https://sunyctf.github.io/login-demos/h5+css3+js左右切换登录注册页/index.html) 🌐 [Gitee仓库](https://gitee.com/sunyctf/login-demos) | [Demo预览](https://sunyctf.gitee.io/login-demos/h5+css3+js左右切换登录注册页/index.html)
 
 #### 软件架构
 软件架构说明

@@ -1,9 +1,11 @@
-# HTML+CSS+JS轻松构建顺滑简约的登录注册页
+# HTML5+CSS3透明动态漂浮登录页
 
 #### 介绍
-采用HTML、CSS、JavaScript实现一个简约顺滑的登录注册页💦
+HTML5+CSS3透明动态漂浮登录页面
 
-- [Demo预览](https://sunyctf.github.io/front-end-demos/login/HTML+CSS+JS轻松构建顺滑简约的登录注册/index.html)
+#### 在线预览
+
+[Github仓库](https://github.com/sunyctf/login-demos) | [Demo预览](https://sunyctf.github.io/login-demos/h5+css3+js透明动态漂浮登录页/index.html) 🌐 [Gitee仓库](https://gitee.com/sunyctf/login-demos) | [Demo预览](https://sunyctf.gitee.io/login-demos/h5+css3+js透明动态漂浮登录页/index.html)
 
 #### 软件架构
 软件架构说明

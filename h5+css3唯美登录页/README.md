@@ -1,9 +1,11 @@
-# 现代风网站登录界面
+# HTML5+CSS3唯美登录页面
 
 #### 介绍
-一款现代风网站登录界面，蓝白色的搭配，非常大气简约，可以适用的范围十分广泛💦
+HTML5+CSS3唯美登录页面
 
-- [Demo预览](https://sunyctf.github.io/front-end-demos/login/现代风网站登录界面/index.html)
+#### 在线预览
+
+[Github仓库](https://github.com/sunyctf/login-demos) | [Demo预览](https://sunyctf.github.io/login-demos/h5+css3唯美登录页/index.html) 🌐 [Gitee仓库](https://gitee.com/sunyctf/login-demos) | [Demo预览](https://sunyctf.gitee.io/login-demos/h5+css3唯美登录页/index.html)
 
 #### 软件架构
 软件架构说明
