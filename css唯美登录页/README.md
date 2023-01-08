@@ -1,11 +1,11 @@
-# HTML5+CSS3登陆按钮跑马灯效果
+# HTML5+CSS3唯美登录页面
 
 #### 介绍
-HTML5+CSS3登陆按钮跑马灯效果
+HTML5+CSS3唯美登录页面
 
 #### 在线预览
 
-[Github仓库](https://github.com/sunyctf/login-demos) | [Demo预览](https://sunyctf.github.io/login-demos/h5+css3+js登陆按钮跑马灯效果/index.html) 🌐 [Gitee仓库](https://gitee.com/sunyctf/login-demos) | [Demo预览](https://sunyctf.gitee.io/login-demos/h5+css3+js登陆按钮跑马灯效果/index.html)
+[Github仓库](https://github.com/sunyctf/login-demos) | [Demo预览](https://sunyctf.github.io/login-demos/css唯美登录页/index.html) 🌐 [Gitee仓库](https://gitee.com/sunyctf/login-demos) | [Demo预览](https://sunyctf.gitee.io/login-demos/css唯美登录页/index.html)
 
 #### 软件架构
 软件架构说明

@@ -1,11 +1,11 @@
-# HTML5+CSS3+JQuery可爱的熊猫遮眼登录界面
+# 现代风网站登录界面
 
 #### 介绍
-HTML5+CSS3+JQuery可爱的熊猫遮眼登录界面
+一款现代风网站登录界面，蓝白色的搭配，非常大气简约，可以适用的范围十分广泛 
 
 #### 在线预览
 
-[Github仓库](https://github.com/sunyctf/login-demos) | [Demo预览](https://sunyctf.github.io/login-demos/h5+css3+Jquery可爱熊猫遮眼登录页-1/index.html) 🌐 [Gitee仓库](https://gitee.com/sunyctf/login-demos) | [Demo预览](https://sunyctf.gitee.io/login-demos/h5+css3+Jquery可爱熊猫遮眼登录页-1/index.html)
+[Github仓库](https://github.com/sunyctf/login-demos) | [Demo预览](https://sunyctf.github.io/login-demos/css现代风网站登录页/index.html) 🌐 [Gitee仓库](https://gitee.com/sunyctf/login-demos) | [Demo预览](https://sunyctf.gitee.io/login-demos/css现代风网站登录页/index.html)
 
 #### 软件架构
 软件架构说明

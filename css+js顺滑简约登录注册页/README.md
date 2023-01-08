@@ -1,11 +1,11 @@
-# HTML5+CSS3唯美登录页面
+# HTML+CSS+JS轻松构建顺滑简约的登录注册页
 
 #### 介绍
-HTML5+CSS3唯美登录页面
+采用HTML、CSS、JavaScript实现一个简约顺滑的登录注册页
 
 #### 在线预览
 
-[Github仓库](https://github.com/sunyctf/login-demos) | [Demo预览](https://sunyctf.github.io/login-demos/h5+css3唯美登录页/index.html) 🌐 [Gitee仓库](https://gitee.com/sunyctf/login-demos) | [Demo预览](https://sunyctf.gitee.io/login-demos/h5+css3唯美登录页/index.html)
+[Github仓库](https://github.com/sunyctf/login-demos) | [Demo预览](https://sunyctf.github.io/login-demos/css+js顺滑简约登录注册页/index.html) 🌐 [Gitee仓库](https://gitee.com/sunyctf/login-demos) | [Demo预览](https://sunyctf.gitee.io/login-demos/css+js顺滑简约登录注册页/index.html)
 
 #### 软件架构
 软件架构说明

@@ -1,11 +1,11 @@
-# HTML5+CSS3实现简易超帅的登录界面
+# HTML5+CSS3透明动态漂浮登录页
 
 #### 介绍
-HTML5+CSS3实现简易超帅的登录界面
+HTML5+CSS3透明动态漂浮登录页面
 
 #### 在线预览
 
-[Github仓库](https://github.com/sunyctf/login-demos) | [Demo预览](https://sunyctf.github.io/login-demos/h5+css3简易超帅登录页/index.html) 🌐 [Gitee仓库](https://gitee.com/sunyctf/login-demos) | [Demo预览](https://sunyctf.gitee.io/login-demos/h5+css3简易超帅登录页/index.html)
+[Github仓库](https://github.com/sunyctf/login-demos) | [Demo预览](https://sunyctf.github.io/login-demos/css+js透明动态漂浮登录页/index.html) 🌐 [Gitee仓库](https://gitee.com/sunyctf/login-demos) | [Demo预览](https://sunyctf.gitee.io/login-demos/css+js透明动态漂浮登录页/index.html)
 
 #### 软件架构
 软件架构说明
