@@ -19,6 +19,7 @@
 - [css+js顺滑简约登录注册页](https://sunyctf.github.io/login-demos/css+js顺滑简约登录注册页/index.html)
 - [css简易超帅登录页](https://sunyctf.github.io/login-demos/css简易超帅登录页/index.html)
 - [css现代风网站登录页](https://sunyctf.github.io/login-demos/css现代风网站登录页/index.html)
+- [css+jquery交互式网站注册表单](https://sunyctf.github.io/login-demos/css+jquery交互式网站注册表单/index.html)
 
 ## 使用说明
 

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>交互式注册表单演示_dowebok</title>
+
+<link rel="stylesheet" href="css/normalize.min.css">
+<link rel="stylesheet" href="css/font-awesome.min.css">
+<link rel="stylesheet" href="css/datouwang.com.css">
+
+</head>
+<body>
+
+<div class="dwo"></div>
+
+<div class="registration-form">
+	<header>
+		<h1>注册</h1>
+		<p>清填写资料</p>
+	</header>
+	<form>
+		<div class="input-section email-section">
+			<input class="email" type="email" placeholder="请输入电子邮箱" autocomplete="off">
+			<div class="animated-button">
+				<span class="icon-paper-plane">
+					<i class="fa fa-envelope-o"></i>
+				</span>
+				<span class="next-button email">
+					<i class="fa fa-arrow-up"></i>
+				</span>
+			</div>
+		</div>
+		<div class="input-section password-section folded">
+			<input class="password" type="password" placeholder="请输入电子密码">
+			<div class="animated-button">
+				<span class="icon-lock">
+					<i class="fa fa-lock"></i>
+				</span>
+				<span class="next-button password">
+					<i class="fa fa-arrow-up"></i>
+				</span>
+			</div>
+		</div>
+		<div class="input-section repeat-password-section folded">
+			<input class="repeat-password" type="password" placeholder="请再次输入电子密码">
+			<div class="animated-button">
+				<span class="icon-repeat-lock">
+					<i class="fa fa-lock"></i>
+				</span>
+				<span class="next-button repeat-password">
+					<i class="fa fa-paper-plane"></i>
+				</span>
+			</div>
+		</div>
+		<div class="success">
+			<p>注册成功</p>
+		</div>
+	</form>
+</div>
+
+<script src="js/jquery.min.js"></script>
+<script src="js/datouwang.com.js"></script>
+
+</body>
+</html>
